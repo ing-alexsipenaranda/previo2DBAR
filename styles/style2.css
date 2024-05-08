@@ -1,0 +1,46 @@
+
+body
+{
+    font-family:"sans-serif";
+    color:#000000;
+    text-align:left;
+}
+header{
+    background-color: rgb(5, 89, 5);
+    width: auto;
+    height: 100px;
+    position: relative;
+    padding:10 10 10 10;
+    color: white;
+    margin-top: -25px;
+    margin-left: -25px;
+    margin-right: -55px;
+}
+footer{
+  background-color: rgb(5, 89, 5);
+  width: auto;
+  height: 100px;
+  position: relative;
+  padding:10 10 10 10;
+  color: white;
+  margin-left: -25px;
+  margin-right: -55px;
+}
+
+header h1{
+  margin-left: 20px;
+  padding: 10px;
+}
+
+.contenedor{
+    display: flex;
+}
+.seccion-principal p{
+  color: #000000;
+}
+.seccion-segundaria{
+  background-color: #fdddca;
+}
+.seccion-segundaria h2{
+  color: rgb(207, 73, 73);
+}
